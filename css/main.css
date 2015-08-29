@@ -1,0 +1,100 @@
+.left-bottom .github-fork-ribbon {
+    background-color: #f80;
+}
+
+body {
+	font-family: Avenir, "Helvetica Neue", Calibri, Helvetica, sans-serif;
+
+}
+
+h2 {
+	font-family: "Avenir Next", Avenir, "Helvetica Neue", Calibri, Helvetica, sans-serif;
+	font-size: 2.1em;
+	line-height: 1.1em;
+	color:#7f7f7f;
+	margin:0;
+}
+
+a {
+	font-size: 0.9em;
+	font-weight: 500;
+}
+
+#softwareSpecialities {
+	font-family: "Avenir Next", Avenir, "Helvetica Neue", Calibri, Helvetica, sans-serif;
+	font-size: 1.7em;
+	line-height: 1.1em;
+	color: #7f7f7f;
+	padding-top: 7em;
+	text-align:center;
+}
+
+.logo {
+	background-image:url(../images/logo.png);
+	background-size: 360px 360px;
+	height: 360px
+}
+
+#leafnode {
+	position:relative;
+	left: 30px;
+	top: -65px;
+	width: 300px;
+	height: 82px;
+}
+
+.bgBox {
+	background-image:url(../images/bgbox.png);
+	background-size: 360px 360px;
+	height: 360px;
+}
+
+.bgBoxContact {
+	background-image:url(../images/bgbox-contact.png);
+	background-size: 360px 360px;
+	height: 360px;
+}
+
+.boxContent {
+	margin: 50px;
+}
+
+h3.workByLeafnode {
+	padding-left: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin: 0px;
+	clear: both;
+}
+
+h3.workByLeafnode ~ h3.workByLeafnode {
+	padding-top:20px;
+}
+
+h3.workByLeafnode a {
+	font-size: 1em;
+	text-decoration:none;
+	color:#3f3f3f;
+}
+
+h3.workByLeafnode span {
+	color:#7f7f7f;
+	font-size:12px;
+}
+
+.workByLeafnode img {
+	width: 64px;
+	height: 64px;
+}
+
+div.workByLeafnode {
+	padding-left: 5px;
+	float:left;
+	width:65px;
+}
+
+div.workByLeafnodeContent {
+	padding-left: 10px;
+	float:left;
+	width:170px;
+}

@@ -1,0 +1,15 @@
+.DS_Store
+**/xcuserdata/**
+*.xcuserstate
+*.pbxuser
+*.xccheckout
+*.hmap
+*.ipa
+build/
+Pods
+Podfile.lock
+InterfaCSS.xcworkspace
+**/SimpleSample.xcworkspace
+.idea
+notes
+.svn

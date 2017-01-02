@@ -68,7 +68,7 @@ h3.workByLeafnode {
 }
 
 h3.workByLeafnode ~ h3.workByLeafnode {
-	padding-top:20px;
+	padding-top:15px;
 }
 
 h3.workByLeafnode a {
@@ -83,14 +83,14 @@ h3.workByLeafnode span {
 }
 
 .workByLeafnode img {
-	width: 64px;
-	height: 64px;
+	width: 32px;
+	height: 32px;
 }
 
 div.workByLeafnode {
 	padding-left: 5px;
 	float:left;
-	width:65px;
+	width:33px;
 }
 
 div.workByLeafnodeContent {
